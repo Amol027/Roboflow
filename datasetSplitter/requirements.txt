@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+loguru
+ultralytics
+torch 
+opencv
+pydantic

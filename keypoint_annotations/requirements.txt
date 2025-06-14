@@ -1,0 +1,16 @@
+# Common
+fastapi
+uvicorn
+
+# YOLOv8n
+ultralytics
+torch
+opencv-python
+
+# MediaPipe
+mediapipe
+
+# MoveNet (TensorFlow-based)
+tensorflow
+tensorflow-hub
+numpy
