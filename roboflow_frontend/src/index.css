@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+.text-stroke-white {
+  -webkit-text-stroke: 1px white;
+}
+
+.text-stroke-black {
+  -webkit-text-stroke: 0.3px gray;
+}
+.lg\:text-stroke-none {
+  -webkit-text-stroke: 0;
+}
+.custom-clip {
+ clip-path: polygon(0 0, 100% 0, 95% 100%, 0% 100%);
+
+}
+
+@media (min-width: 768px) {
+  .custom-clip {
+    clip-path: polygon(8% 0%, 100% 0%, 100% 100%);
+  }
+}
+
