@@ -1,9 +1,0 @@
-fastapi==0.110.2
-uvicorn==0.29.0
-pandas
-scikit-learn
-torch
-transformers
-python-multipart
-scikit-learn
-
