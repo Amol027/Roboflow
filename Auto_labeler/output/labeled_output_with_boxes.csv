@@ -1,6 +1,0 @@
-Image,Label,Confidence,Xmin,Ymin,Xmax,Ymax
-images (1).jpeg,person,0.977,42,2,259,164
-images.jpeg,person,0.967,76,0,213,166
-images.jpeg,clock,0.592,159,91,174,104
-images.jpeg,person,0.302,32,79,54,106
-images.jpeg,tv,0.26,174,13,299,153
