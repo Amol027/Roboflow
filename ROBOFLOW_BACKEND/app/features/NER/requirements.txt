@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+spacy
+flair
+python-multipart
+pandas
+sqlalchemy
+psycopg2-binary
+
